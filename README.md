@@ -2,7 +2,7 @@
 
 Counter-anti-Asian Hate Twitter Archive (CAAHTA)
 
-Repository for Lizhou Fan, Huizi Yu and Anne Gilliland for the analysis of #StopAsianHate related tweets on Twitter. The research article analyzing these tweets, "#StopAsianHate: Archiving and Analyzing Twitter Discourse in the Wake of the 2021 Atlanta Spa Shootings", has been accepted by ASIS&T 2021. 
+Repository for Lizhou Fan, Huizi Yu and Anne Gilliland for the analysis of #StopAsianHate related tweets on Twitter. The research article analyzing these tweets, "[#StopAsianHate: Archiving and Analyzing Twitter Discourse in the Wake of the 2021 Atlanta Spa Shootings](https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/pra2.475)", was presented at ASIS&T 2021. 
 
 
 ## Data Collection
